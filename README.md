@@ -1,0 +1,2 @@
+# SCATHEME
+ WordPress Theme
